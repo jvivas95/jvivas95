@@ -10,7 +10,7 @@ Desarrollador Full Stack Junior en Barcelona. Trabajo con **PHP, Laravel y Symfo
 |---|---|---|
 | [InkInspire](https://inkinspire.es) | Plataforma de reseñas de libros y comunidad | Laravel, MySQL, Tailwind, Alpine.js, Docker |
 | [Mail Router](https://github.com/jvivas95/mail_router) | Aplicación que automatiza la recepción y el reparto de solicitudes comerciales por correo | Laravel, MySQL, Tailwind, AWS |
-| [Ropero](enlace-al-repo) | App para gestionar la entrega de ropa en una entidad social | Laravel (API REST), React, MySQL, Docker |
+| [Ropero](https://github.com/jvivas95/ropero.git) | App para gestionar la entrega de ropa en una entidad social | Laravel (API REST), React, MySQL, Docker |
 
 ## Stack
 
